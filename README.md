@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Faysal</h1>
-https://i.gifer.com/6tXM.gif
 
 <h3 align="center">I'm a Software Engineer</h3>
 
